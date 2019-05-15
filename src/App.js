@@ -18,7 +18,7 @@ import { LicenseManager } from 'ag-grid-enterprise';
 LicenseManager.setLicenseKey(process.env.REACT_APP_AG_GRID_LICENSE);
 
 const columnDefs = [
-  { headerName: 'Make', field: 'make' },
+  { headerName: 'Auto Make', field: 'make' },
   { headerName: 'Model', field: 'model' },
   { headerName: 'Price', field: 'price' }
 ];
