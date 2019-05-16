@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "adaptableblotter-react-aggrid": "^3.4.0-canary.1",
+    "adaptableblotter-react-aggrid": "^3.4.7",
     "ag-grid-community": "^20.2.0",
     "ag-grid-enterprise": "^20.2.0",
     "mathjs": "^5.10.0",
